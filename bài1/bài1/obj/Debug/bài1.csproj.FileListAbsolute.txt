@@ -1,0 +1,10 @@
+D:\New folder\bài1\bài1\bin\Debug\bài1.exe.config
+D:\New folder\bài1\bài1\bin\Debug\bài1.exe
+D:\New folder\bài1\bài1\bin\Debug\bài1.pdb
+D:\New folder\bài1\bài1\obj\Debug\bài1.csproj.AssemblyReference.cache
+D:\New folder\bài1\bài1\obj\Debug\bài1.Form1.resources
+D:\New folder\bài1\bài1\obj\Debug\bài1.Properties.Resources.resources
+D:\New folder\bài1\bài1\obj\Debug\bài1.csproj.GenerateResource.cache
+D:\New folder\bài1\bài1\obj\Debug\bài1.csproj.CoreCompileInputs.cache
+D:\New folder\bài1\bài1\obj\Debug\bài1.exe
+D:\New folder\bài1\bài1\obj\Debug\bài1.pdb

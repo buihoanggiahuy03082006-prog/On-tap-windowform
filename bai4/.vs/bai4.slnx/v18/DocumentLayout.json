@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\bai4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A24C433D-4FF1-4CC8-BE83-E76C7AF3A713}|bai4\\bai4.csproj|d:\\new folder\\bai4\\bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24C433D-4FF1-4CC8-BE83-E76C7AF3A713}|bai4\\bai4.csproj|solutionrelative:bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24C433D-4FF1-4CC8-BE83-E76C7AF3A713}|bai4\\bai4.csproj|d:\\new folder\\bai4\\bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A24C433D-4FF1-4CC8-BE83-E76C7AF3A713}|bai4\\bai4.csproj|solutionrelative:bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\New folder\\bai4\\bai4\\Form1.cs",
+              "RelativeDocumentMoniker": "bai4\\Form1.cs",
+              "ToolTip": "D:\\New folder\\bai4\\bai4\\Form1.cs",
+              "RelativeToolTip": "bai4\\Form1.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAA8wHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T09:14:51.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\bai4\\bai4\\Form1.cs",
+              "RelativeDocumentMoniker": "bai4\\Form1.cs",
+              "ToolTip": "D:\\New folder\\bai4\\bai4\\Form1.cs [Design]",
+              "RelativeToolTip": "bai4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T08:58:21.074Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
