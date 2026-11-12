@@ -1,0 +1,15 @@
+C:\Users\Dell\Downloads\Bai5_4_QuanLyNhanSu\Bai5_4_QuanLyNhanSu\bin\Debug\net8.0-windows\Bai5_4_QuanLyNhanSu.exe
+C:\Users\Dell\Downloads\Bai5_4_QuanLyNhanSu\Bai5_4_QuanLyNhanSu\bin\Debug\net8.0-windows\Bai5_4_QuanLyNhanSu.deps.json
+C:\Users\Dell\Downloads\Bai5_4_QuanLyNhanSu\Bai5_4_QuanLyNhanSu\bin\Debug\net8.0-windows\Bai5_4_QuanLyNhanSu.runtimeconfig.json
+C:\Users\Dell\Downloads\Bai5_4_QuanLyNhanSu\Bai5_4_QuanLyNhanSu\bin\Debug\net8.0-windows\Bai5_4_QuanLyNhanSu.dll
+C:\Users\Dell\Downloads\Bai5_4_QuanLyNhanSu\Bai5_4_QuanLyNhanSu\bin\Debug\net8.0-windows\Bai5_4_QuanLyNhanSu.pdb
+C:\Users\Dell\Downloads\Bai5_4_QuanLyNhanSu\Bai5_4_QuanLyNhanSu\obj\Debug\net8.0-windows\Bai5_4_QuanLyNhanSu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\Bai5_4_QuanLyNhanSu\Bai5_4_QuanLyNhanSu\obj\Debug\net8.0-windows\Bai5_4_QuanLyNhanSu.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\Bai5_4_QuanLyNhanSu\Bai5_4_QuanLyNhanSu\obj\Debug\net8.0-windows\Bai5_4_QuanLyNhanSu.AssemblyInfo.cs
+C:\Users\Dell\Downloads\Bai5_4_QuanLyNhanSu\Bai5_4_QuanLyNhanSu\obj\Debug\net8.0-windows\Bai5_4_QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Bai5_4_QuanLyNhanSu\Bai5_4_QuanLyNhanSu\obj\Debug\net8.0-windows\Bai5_4_QuanLyNhanSu.dll
+C:\Users\Dell\Downloads\Bai5_4_QuanLyNhanSu\Bai5_4_QuanLyNhanSu\obj\Debug\net8.0-windows\refint\Bai5_4_QuanLyNhanSu.dll
+C:\Users\Dell\Downloads\Bai5_4_QuanLyNhanSu\Bai5_4_QuanLyNhanSu\obj\Debug\net8.0-windows\Bai5_4_QuanLyNhanSu.pdb
+C:\Users\Dell\Downloads\Bai5_4_QuanLyNhanSu\Bai5_4_QuanLyNhanSu\obj\Debug\net8.0-windows\Bai5_4_QuanLyNhanSu.genruntimeconfig.cache
+C:\Users\Dell\Downloads\Bai5_4_QuanLyNhanSu\Bai5_4_QuanLyNhanSu\obj\Debug\net8.0-windows\ref\Bai5_4_QuanLyNhanSu.dll
+C:\Users\Dell\Downloads\Bai5_4_QuanLyNhanSu\Bai5_4_QuanLyNhanSu\obj\Debug\net8.0-windows\Bai5_4_Q.362AD4A0.Up2Date
